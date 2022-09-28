@@ -1,0 +1,2 @@
+- URL frontend: https://frontend-ml1-ftds013.herokuapp.com/
+- URL backend: https://backend-ml1-ftds013.herokuapp.com/
